@@ -20,23 +20,19 @@
 
   <h2>Installation</h2>
   <p>To install the necessary dependencies:</p>
-  <code>
-    pip install selenium
+  <code>pip install selenium
   </code>
 
   <h2>Usage</h2>
   <ol>
     <li>Clone this repository:</li>
-    <code>
-      git clone https://github.com/saken03/cookie-clicker-bot.git
+    <code>git clone https://github.com/saken03/cookie-clicker-bot.git
     </code>
     <li>Navigate to the project directory:</li>
-    <code>
-      cd cookie_clicker_bot
+    <code>cd cookie-clicker-bot
     </code>
     <li>Run the Python script:</li>
-    <code>
-      python cookie_clicker_bot.py
+    <code>python cookie-clicker-bot.py
     </code>
   </ol>
 </body>
